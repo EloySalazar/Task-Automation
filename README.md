@@ -19,7 +19,7 @@ We can rename a list of files quickly and easily just by specifying the location
 - Run the app.
 
     ```
-    python Tast-Automation.py
+    python taskautomation.py
     ```
 
 - Use Visual Studio Code to edit the files in this repository.
